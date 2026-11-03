@@ -60,11 +60,15 @@ public class DatatableSteps {
     @Then("profile picture displayed on homepage")
     public void profilePictureDisplayedOnHomepage() {
         System.out.println("displayed");
+    }
+       public void git_commit_demo(){
+            System.out.println("this is git commit demo");
+        }
 
 
     }
 
 
-}
+
 
 
